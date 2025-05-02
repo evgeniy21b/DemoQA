@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="966bc280-21a2-4ff7-9a23-dfc0a2836c8f" name="Changes" comment="UI demoQA project with python" />
+    <list default="true" id="966bc280-21a2-4ff7-9a23-dfc0a2836c8f" name="Changes" comment="UI demoQA project with python">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746191861089</updated>
-      <workItem from="1746191862431" duration="9210000" />
+      <workItem from="1746191862431" duration="9905000" />
     </task>
     <task id="LOCAL-00001" summary="UI demoQA project with python">
       <option name="closed" value="true" />
